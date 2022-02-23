@@ -2,6 +2,8 @@
 
 ## Building app/jar and run tests
 
+Clone the repo
+
 Open sbt shell for fsater exectuion.
 
 ```
