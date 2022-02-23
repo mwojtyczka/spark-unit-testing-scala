@@ -1,7 +1,7 @@
 import sbt._
 
 object versions {
-  val spark = "2.4.2" // to mach with EMR/Glue spark version
+  val spark = "2.4.2"
   val scalaCheck = "1.14.0"
   val log4j = "1.2.17"
   val slf4j = "1.7.25"
