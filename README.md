@@ -2,9 +2,9 @@
 
 ## Building app/jar and run tests
 
-Clone the repo
+1. Clone the repo
 
-Open sbt shell for fsater exectuion.
+2. Run:
 
 ```
 sbt
